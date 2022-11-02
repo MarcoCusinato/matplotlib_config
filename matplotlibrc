@@ -377,12 +377,12 @@ axes.labelsize:     medium  # font size of the x and y labels
 axes.labelpad:      4.0     # space between label and axis
 axes.labelweight:   normal  # weight of the x and y labels
 axes.labelcolor:    black
-axes.axisbelow:     True    # draw axis gridlines and ticks:
+axes.axisbelow:     line    # draw axis gridlines and ticks:
                              #     - below patches (True)
                              #     - above patches but below lines ('line')
                              #     - above all (False)
 
-axes.formatter.limits: -2, 2  # use scientific notation if log10
+axes.formatter.limits: -3, 3  # use scientific notation if log10
                                # of the axis range is smaller than the
                                # first or larger than the second
 axes.formatter.use_locale: False  # When True, format tick labels

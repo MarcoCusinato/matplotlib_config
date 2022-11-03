@@ -605,7 +605,7 @@ image.composite_image: True  # When True, all the images on a set of axes are
 ## ***************************************************************************
 contour.negative_linestyle: dashed  # string or on-off ink sequence
 contour.corner_mask:        True    # {True, False}
-contour.linewidth:          0.75    # {float, None} Size of the contour line
+contour.linewidth:          0.50    # {float, None} Size of the contour line
                                      # widths. If set to None, it falls back to
                                      # `line.linewidth`.
 #contour.algorithm:          mpl2014 # {mpl2005, mpl2014, serial, threaded}

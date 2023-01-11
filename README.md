@@ -13,5 +13,5 @@ An sapmle plot is also provided.
 - **Bebrush**: https://www.dafont.com/bebrush.font
 
 ## USEFUL LINKS
-If you need help with matplotlibrc: https://matplotlib.org/stable/tutorials/introductory/customizing.html
+If you need help with matplotlibrc: https://matplotlib.org/stable/tutorials/introductory/customizing.html <br />
 Or to update Matplotlib fontlist: https://www.python-graph-gallery.com/custom-fonts-in-matplotlib

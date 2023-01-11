@@ -1,8 +1,8 @@
 
 # MATPLOTLIB CUSTOM CONFIGURATION
 
-This repository contains my personal version of the matplotlibrc file, and the fontlist.json with th ecustom font names used in the config file.
-An sapmle plot is also provided.
+This repository contains my personal version of the matplotlibrc file, and the fontlist.json with th ecustom font names used in the config file. <br />
+A sample plot generated with this configuration is also provided.
 
 ## CUSTOM FONTS:
 

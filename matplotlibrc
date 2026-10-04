@@ -290,7 +290,7 @@ text.color: black
 ## - no_hinting: Disable hinting.  ("none" is a synonym.)
 text.hinting: force_autohint
 
-text.hinting_factor: 8  # Specifies the amount of softness for hinting in the
+#text.hinting_factor: 8  # Specifies the amount of softness for hinting in the
                          # horizontal direction.  A value of 1 will hint to full
                          # pixels.  A value of 2 will hint to half pixels etc.
 #text.kerning_factor: 0  # Specifies the scaling factor for kerning values.  This
@@ -409,7 +409,7 @@ axes.spines.right:  True
 
 axes.unicode_minus: True  # use Unicode for the minus symbol rather than hyphen.  See
                            # https://en.wikipedia.org/wiki/Plus_and_minus_signs#Character_codes
-axes.prop_cycle: cycler('color', ['e60049', '00bfa0', 'ffa300', '0bb4ff', '7c1158', 'e6d800', '4421af', '9b19f5', 'dc0ab4', 'b3d4ff', '50e991', '5ad45a', 'ebdc78'])
+axes.prop_cycle: cycler('color', ['e60049', '0bb4ff', '9b19f5', 'ffa300', '00bfa0',  '7c1158', 'e6d800', '4421af', '50e991',  'dc0ab4',   'ebdc78', '5ad45a', 'b3d4ff'])
                   # color cycle for plot lines as list of string color specs:
                   # single letter, long name, or web-style hex
                   # As opposed to all other parameters in this file, the color
